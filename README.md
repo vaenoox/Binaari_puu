@@ -8,5 +8,5 @@ sekä siitä voidaan etsiä solmuja.
 
 
 !! HUOM !!
-Annettavan pohjatiedoston nimi on manuaalisesti koodattu ja mikäli sitä haluaa vaihtaa pitää se tehdä manuaalisesti.
+Annettavan pohjatiedoston nimi on manuaalisesti koodattu ja mikäli sitä haluaa vaihtaa, pitää se tehdä manuaalisesti.
 Tämän voi suorittaa koodista riviltä 28.
